@@ -171,7 +171,7 @@ import { FaGithub } from "react-icons/fa";
         <div>
           <p className="mb-8 text-sm text-gray-500 dark:text-neutral-500">
             Permite explorar Pokémon, ver su informacion: nombre, imagen, tipo, altura y peso. Solamente ingresa
-            un numero o nombre al input y te devolvera la informacion. Esta echo con la API oficial de Pokemon.
+            un numero o nombre al input y te devolvera la informacion. Esta hecho con la API oficial de Pokemon.
           </p>
           <div className="grid grid-cols-2 gap-4">
             <img
